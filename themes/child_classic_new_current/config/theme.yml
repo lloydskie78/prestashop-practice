@@ -1,0 +1,7 @@
+parent: classic
+name: child_classic_new
+display_name: Cihardware Template
+version: 1.0.0
+assets:
+  use_parent_assets: true
+
